@@ -1,1 +1,2 @@
 # Zomato
+The Zomato Data Analysis project focuses on extracting meaningful insights from the dataset of Zomato, a popular food delivery and restaurant discovery platform. The analysis aims to explore patterns in user behavior, restaurant ratings, pricing, and geographical trends. By using data analysis techniques in Python, the project visualizes key metrics like the distribution of restaurant types, average ratings, price range, and customer preferences, helping to derive actionable insights that can enhance business decisions and improve user experience.
